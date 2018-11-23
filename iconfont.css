@@ -1,0 +1,540 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("iconfont.eot?dbfae8c3399c01889f6b4166d7be025f?#iefix") format("embedded-opentype"),
+url("iconfont.woff2?dbfae8c3399c01889f6b4166d7be025f") format("woff2"),
+url("iconfont.woff?dbfae8c3399c01889f6b4166d7be025f") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: iconfont !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-aerialway:before {
+	content: "\f101";
+}
+.icon-airfield:before {
+	content: "\f102";
+}
+.icon-airport:before {
+	content: "\f103";
+}
+.icon-alcohol-shop:before {
+	content: "\f104";
+}
+.icon-america-football:before {
+	content: "\f105";
+}
+.icon-amusement-park:before {
+	content: "\f106";
+}
+.icon-aquarium:before {
+	content: "\f107";
+}
+.icon-art-gallery:before {
+	content: "\f108";
+}
+.icon-artwork:before {
+	content: "\f109";
+}
+.icon-attraction:before {
+	content: "\f10a";
+}
+.icon-bakery:before {
+	content: "\f10b";
+}
+.icon-bank:before {
+	content: "\f10c";
+}
+.icon-bar:before {
+	content: "\f10d";
+}
+.icon-barrier:before {
+	content: "\f10e";
+}
+.icon-baseball:before {
+	content: "\f10f";
+}
+.icon-basketball:before {
+	content: "\f110";
+}
+.icon-bbq:before {
+	content: "\f111";
+}
+.icon-beer:before {
+	content: "\f112";
+}
+.icon-bicycle:before {
+	content: "\f113";
+}
+.icon-bicycle-share:before {
+	content: "\f114";
+}
+.icon-blood-bank:before {
+	content: "\f115";
+}
+.icon-bollard:before {
+	content: "\f116";
+}
+.icon-buddhism:before {
+	content: "\f117";
+}
+.icon-building:before {
+	content: "\f118";
+}
+.icon-building-alt1:before {
+	content: "\f119";
+}
+.icon-bus:before {
+	content: "\f11a";
+}
+.icon-butcher:before {
+	content: "\f11b";
+}
+.icon-cafe:before {
+	content: "\f11c";
+}
+.icon-campsite:before {
+	content: "\f11d";
+}
+.icon-car:before {
+	content: "\f11e";
+}
+.icon-car-rental:before {
+	content: "\f11f";
+}
+.icon-car-repair:before {
+	content: "\f120";
+}
+.icon-castle:before {
+	content: "\f121";
+}
+.icon-cemetery:before {
+	content: "\f122";
+}
+.icon-charging-station:before {
+	content: "\f123";
+}
+.icon-cinema:before {
+	content: "\f124";
+}
+.icon-circle:before {
+	content: "\f125";
+}
+.icon-circle-stroked:before {
+	content: "\f126";
+}
+.icon-city:before {
+	content: "\f127";
+}
+.icon-clothing-store:before {
+	content: "\f128";
+}
+.icon-college:before {
+	content: "\f129";
+}
+.icon-commercial:before {
+	content: "\f12a";
+}
+.icon-confectionary:before {
+	content: "\f12b";
+}
+.icon-convenience-store:before {
+	content: "\f12c";
+}
+.icon-cricket:before {
+	content: "\f12d";
+}
+.icon-cross:before {
+	content: "\f12e";
+}
+.icon-dam:before {
+	content: "\f12f";
+}
+.icon-danger:before {
+	content: "\f130";
+}
+.icon-defibrillator:before {
+	content: "\f131";
+}
+.icon-deli:before {
+	content: "\f132";
+}
+.icon-dentist:before {
+	content: "\f133";
+}
+.icon-doctor:before {
+	content: "\f134";
+}
+.icon-dog-park:before {
+	content: "\f135";
+}
+.icon-drinking-water:before {
+	content: "\f136";
+}
+.icon-embassy:before {
+	content: "\f137";
+}
+.icon-emergency-phone:before {
+	content: "\f138";
+}
+.icon-entrance:before {
+	content: "\f139";
+}
+.icon-entrance-alt1:before {
+	content: "\f13a";
+}
+.icon-farm:before {
+	content: "\f13b";
+}
+.icon-fast-food:before {
+	content: "\f13c";
+}
+.icon-fence:before {
+	content: "\f13d";
+}
+.icon-ferry:before {
+	content: "\f13e";
+}
+.icon-fire-station:before {
+	content: "\f13f";
+}
+.icon-fitness-center:before {
+	content: "\f140";
+}
+.icon-florist:before {
+	content: "\f141";
+}
+.icon-food-court:before {
+	content: "\f142";
+}
+.icon-fuel:before {
+	content: "\f143";
+}
+.icon-furniture:before {
+	content: "\f144";
+}
+.icon-gaming:before {
+	content: "\f145";
+}
+.icon-garden:before {
+	content: "\f146";
+}
+.icon-garden-center:before {
+	content: "\f147";
+}
+.icon-gift:before {
+	content: "\f148";
+}
+.icon-globe:before {
+	content: "\f149";
+}
+.icon-golf:before {
+	content: "\f14a";
+}
+.icon-grocery:before {
+	content: "\f14b";
+}
+.icon-hairdresser:before {
+	content: "\f14c";
+}
+.icon-harbor:before {
+	content: "\f14d";
+}
+.icon-hardware:before {
+	content: "\f14e";
+}
+.icon-heart:before {
+	content: "\f14f";
+}
+.icon-heliport:before {
+	content: "\f150";
+}
+.icon-home:before {
+	content: "\f151";
+}
+.icon-horse-riding:before {
+	content: "\f152";
+}
+.icon-hospital:before {
+	content: "\f153";
+}
+.icon-ice-cream:before {
+	content: "\f154";
+}
+.icon-industry:before {
+	content: "\f155";
+}
+.icon-information:before {
+	content: "\f156";
+}
+.icon-jewelry-store:before {
+	content: "\f157";
+}
+.icon-karaoke:before {
+	content: "\f158";
+}
+.icon-landmark:before {
+	content: "\f159";
+}
+.icon-landuse:before {
+	content: "\f15a";
+}
+.icon-laundry:before {
+	content: "\f15b";
+}
+.icon-library:before {
+	content: "\f15c";
+}
+.icon-lighthouse:before {
+	content: "\f15d";
+}
+.icon-lodging:before {
+	content: "\f15e";
+}
+.icon-logging:before {
+	content: "\f15f";
+}
+.icon-marker:before {
+	content: "\f160";
+}
+.icon-marker-stroked:before {
+	content: "\f161";
+}
+.icon-marker2:before {
+	content: "\f162";
+}
+.icon-mobile-phone:before {
+	content: "\f163";
+}
+.icon-monument:before {
+	content: "\f164";
+}
+.icon-mountain:before {
+	content: "\f165";
+}
+.icon-museum:before {
+	content: "\f166";
+}
+.icon-music:before {
+	content: "\f167";
+}
+.icon-natural:before {
+	content: "\f168";
+}
+.icon-newsagent:before {
+	content: "\f169";
+}
+.icon-optician:before {
+	content: "\f16a";
+}
+.icon-paint:before {
+	content: "\f16b";
+}
+.icon-park:before {
+	content: "\f16c";
+}
+.icon-park-alt1:before {
+	content: "\f16d";
+}
+.icon-parking:before {
+	content: "\f16e";
+}
+.icon-parking-garage:before {
+	content: "\f16f";
+}
+.icon-pharmacy:before {
+	content: "\f170";
+}
+.icon-picnic-site:before {
+	content: "\f171";
+}
+.icon-pitch:before {
+	content: "\f172";
+}
+.icon-place-of-worship:before {
+	content: "\f173";
+}
+.icon-playground:before {
+	content: "\f174";
+}
+.icon-police:before {
+	content: "\f175";
+}
+.icon-post:before {
+	content: "\f176";
+}
+.icon-prison:before {
+	content: "\f177";
+}
+.icon-rail:before {
+	content: "\f178";
+}
+.icon-rail-light:before {
+	content: "\f179";
+}
+.icon-rail-metro:before {
+	content: "\f17a";
+}
+.icon-ranger-station:before {
+	content: "\f17b";
+}
+.icon-recycling:before {
+	content: "\f17c";
+}
+.icon-religious-christian:before {
+	content: "\f17d";
+}
+.icon-religious-jewish:before {
+	content: "\f17e";
+}
+.icon-religious-muslim:before {
+	content: "\f17f";
+}
+.icon-residential-community:before {
+	content: "\f180";
+}
+.icon-restaurant:before {
+	content: "\f181";
+}
+.icon-roadblock:before {
+	content: "\f182";
+}
+.icon-rocket:before {
+	content: "\f183";
+}
+.icon-school:before {
+	content: "\f184";
+}
+.icon-scooter:before {
+	content: "\f185";
+}
+.icon-shelter:before {
+	content: "\f186";
+}
+.icon-shop:before {
+	content: "\f187";
+}
+.icon-skateboard:before {
+	content: "\f188";
+}
+.icon-skiing:before {
+	content: "\f189";
+}
+.icon-slaughterhouse:before {
+	content: "\f18a";
+}
+.icon-snowmobile:before {
+	content: "\f18b";
+}
+.icon-soccer:before {
+	content: "\f18c";
+}
+.icon-square:before {
+	content: "\f18d";
+}
+.icon-square-stroked:before {
+	content: "\f18e";
+}
+.icon-stadium:before {
+	content: "\f18f";
+}
+.icon-star:before {
+	content: "\f190";
+}
+.icon-star-stroked:before {
+	content: "\f191";
+}
+.icon-stationery:before {
+	content: "\f192";
+}
+.icon-suitcase:before {
+	content: "\f193";
+}
+.icon-sushi:before {
+	content: "\f194";
+}
+.icon-swimming:before {
+	content: "\f195";
+}
+.icon-table-tennis:before {
+	content: "\f196";
+}
+.icon-taxi:before {
+	content: "\f197";
+}
+.icon-teahouse:before {
+	content: "\f198";
+}
+.icon-telephone:before {
+	content: "\f199";
+}
+.icon-tennis:before {
+	content: "\f19a";
+}
+.icon-theatre:before {
+	content: "\f19b";
+}
+.icon-ticket:before {
+	content: "\f19c";
+}
+.icon-toilet:before {
+	content: "\f19d";
+}
+.icon-town:before {
+	content: "\f19e";
+}
+.icon-town-hall:before {
+	content: "\f19f";
+}
+.icon-travel_agency:before {
+	content: "\f1a0";
+}
+.icon-triangle:before {
+	content: "\f1a1";
+}
+.icon-triangle-stroked:before {
+	content: "\f1a2";
+}
+.icon-veterinary:before {
+	content: "\f1a3";
+}
+.icon-viewpoint:before {
+	content: "\f1a4";
+}
+.icon-village:before {
+	content: "\f1a5";
+}
+.icon-volcano:before {
+	content: "\f1a6";
+}
+.icon-warehouse:before {
+	content: "\f1a7";
+}
+.icon-waste-basket:before {
+	content: "\f1a8";
+}
+.icon-watch:before {
+	content: "\f1a9";
+}
+.icon-water:before {
+	content: "\f1aa";
+}
+.icon-wetland:before {
+	content: "\f1ab";
+}
+.icon-wheelchair:before {
+	content: "\f1ac";
+}
+.icon-windmill:before {
+	content: "\f1ad";
+}
+.icon-zoo:before {
+	content: "\f1ae";
+}
